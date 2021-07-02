@@ -1,4 +1,11 @@
 # reading-notes
 
-## Explain “growth mindset” in your own words
-## Include 3 reminders to yourself of how to keep yourself in a growth mindset
+# My intro
+
+# Table of Contents: 
+
+| Title      | Link |
+| ----------- | ----------- |
+| Read01      | [Learning Markdown](https://boshrajaber.github.io/reading-notes/read01)       |
+| Read02  | Text        |
+| Read03  | Text        |
